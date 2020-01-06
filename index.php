@@ -271,7 +271,7 @@
 <body>
     <div class="container">
         
-        <h1>Enter a Country, US State, or State of Another Country to See its Flag!</h1>
+    <h1>Enter a Country, US State, or State<br> of Another Country to See its Flag!</h1>
 
         <form>
 
